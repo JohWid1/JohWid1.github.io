@@ -20,11 +20,11 @@ Nam dapibus, sapien ac sollicitudin rutrum, sem nunc accumsan nisl, at scelerisq
 
 ### Kolmas otsikko
 
-<sub>Donec pretium sit amet tortor et cursus.</sub> Pellentesque rhoncus aliquam orci a euismod. Proin consectetur, erat at lobortis accumsan, <sup> urna libero sollicitudin odio, non pharetra nulla ex quis lectus.<sup> Aenean ac massa et elit lobortis varius. Pellentesque ex nisl, molestie feugiat tempus eget, posuere imperdiet neque. Fusce malesuada, tortor quis </sup></sup> 
+<sub>Donec pretium sit amet tortor et cursus.</sub> Pellentesque rhoncus aliquam orci a euismod. Proin consectetur, erat at lobortis accumsan, <sup> urna libero sollicitudin odio, non pharetra nulla ex quis lectus.<sup> Aenean ac massa et elit lobortis varius. Pellentesque ex nisl, molestie feugiat tempus eget, posuere imperdiet neque. Fusce malesuada, tortor quis </sup></sup> &#x1F602; 
 
-- []cursus cursus, est urna lobortis risus, in blandit justo erat nec justo. Suspendisse blandit sit amet sapien semper porta. Nam condimentum suscipit ante, a consequat justo commodo faucibus. Duis lobortis velit dolor, vitae sagittis mauris facilisis at. Nulla lobortis non eros quis suscipit. Phasellus id turpis eu nulla sollicitudin imperdiet. Vivamus lobortis ex orci. Phasellus auctor nisl eget felis luctus porttitor. Donec tortor lorem, finibus quis lorem at, finibus pharetra elit. Cras et odio odio.  &#x1F602;
+- []cursus cursus, est urna lobortis risus, in blandit justo erat nec justo. Suspendisse blandit sit amet sapien semper porta. Nam condimentum suscipit ante, a consequat justo commodo faucibus. Duis lobortis velit dolor, vitae sagittis mauris facilisis at. Nulla lobortis non eros quis suscipit. Phasellus id turpis eu nulla sollicitudin imperdiet. Vivamus lobortis ex orci. Phasellus auctor nisl eget felis luctus porttitor. Donec tortor lorem, finibus quis lorem at, finibus pharetra elit. Cras et odio odio.  &#x1F60E;
 
-[Viikon viisi tehtävään youtube linkki](https://youtu.be/OXlsbF8oWa4)
+[Viikon viisi tehtävään youtube linkki](https://youtu.be/OXlsbF8oWa4) &#x1F448;
 
 [^1]:Sed eleifend orci vel arcu suscipit fermentum. Morbi a mauris nec tortor facilisis luctus. Praesent blandit dolor a leo luctus gravida. Nullam mollis justo nibh, a maximus purus pharetra eget. In at libero vitae enim convallis mattis quis eget sapien. Sed nec massa iaculis, aliquam felis vitae, ornare nisi. Nam sollicitudin venenatis sapien, vel feugiat ipsum. Proin dictum, tellus vel ultrices convallis, leo dui semper leo, id consectetur urna turpis at arcu. Morbi blandit lorem id est volutpat pretium. Nullam ut orci enim. Phasellus scelerisque dui sed volutpat viverra. 
 
